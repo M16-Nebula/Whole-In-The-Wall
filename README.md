@@ -1,4 +1,4 @@
 # Whole-In-The-Wall
-study <br/>
+Study <br/>
 Kinect Whole In The Wall 게임 <br/>
-Development period: two days
+Development period : 2 days
